@@ -12,9 +12,10 @@
 
 
 
-describe('verify the traverse method in cypress',function(){
+describe('verify the contactus tin cypress',function(){
 
     it('verify the contact us form',function(){
+        // important===>
 
         //cypress - css selector
         // id - #idvalue
