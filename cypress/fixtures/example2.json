@@ -1,0 +1,18 @@
+[
+    {
+        "first_name": "A-tushar",
+        "last_name" : "B-ghadage",
+        "email": "C-hello@cypress.io",
+        "message": "D-Fixtures are a great way to mock data for responses to routes"
+      },
+
+      {
+        "first_name": "A-tushar",
+        "last_name" : "B-ghadage",
+        "email": "C-hello@cypress.io",
+        "message": "D-Fixtures are a great way to mock data for responses to routes"
+    }
+      
+      
+
+]

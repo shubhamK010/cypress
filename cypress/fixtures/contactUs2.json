@@ -1,0 +1,14 @@
+[
+        {
+            "firstName": "pravin",
+            "lastName": "shelar",
+            "email": "pravinshelar101@gmail.com",
+            "comment": " Hello I am learning javascript"
+        },
+        {
+            "firstName": "shubham",
+            "lastName": "kamble",
+            "email": "shubhamkmb@gmail.com",
+            "comment": " Hello I am learning python"
+        }
+]
